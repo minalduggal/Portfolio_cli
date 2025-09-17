@@ -1,6 +1,6 @@
 📄 Project Title: Portfolio Creation CLI
 🔧 Language Used:
-C Programming
+Cpp Programming
 
 📌 Description:
 This is a Command Line Interface (CLI) application to create, edit, and manage a personal portfolio.
@@ -21,7 +21,7 @@ exit → Exit the CLI (saves automatically before exiting)
 
 💡 Highlights:
 -Supports up to 10 projects
--Phone number input is validated (must be exactly 10 digits
+-Phone number input is validated (must be exactly 10 digits)
 -Offers append or overwrite options for project edits
 -Achievements are optional in the About section
 -About and Contact sections are initialized only once, then editable anytime
