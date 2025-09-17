@@ -9,14 +9,23 @@ All data is saved in a file (portfolio_data.txt) for persistent storage.
 
 ✅ Features:
 edit_about → Add or update the "About Me" section
+
 add_project → Add a new project description
+
 view_projects → View all added projects
+
 edit_project → Edit or append details to a selected project
+
 delete_project → Delete a project by its number
+
 edit_contact → Add or update Phone, Gmail, and LinkedIn info
+
 display → Show the full portfolio
+
 save → Save the portfolio to a file
+
 load → Load portfolio from a file
+
 exit → Exit the CLI (saves automatically before exiting)
 
 💡 Highlights:
